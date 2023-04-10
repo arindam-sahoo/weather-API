@@ -39,4 +39,4 @@ To retrieve the current weather data for London, navigate to `http://localhost:5
 ```
 
 ## Attribution
-- This project uses OpenWeather API and the public API key was used to retrieve weather data.
+This project uses OpenWeather API and the public API key was used to retrieve weather data.
