@@ -9,15 +9,15 @@ This is a Flask-based API project that retrieves and displays weather data for a
 ## Getting Started
 1. Clone the repository
 2.  Install dependencies using the following command:
-    ```bash
+    ```
     pip install -r requirements.txt
     ```
 3. Create a .env file and add your OpenWeatherMap API key using the following format:
-    ```bash
+    ```
     API_KEY=<your_api_key>
     ```
 4. Run the application using the following command:
-    ```bash
+    ```
     python app.py
     ```
 5. Open a web browser and navigate to http://localhost:5000/ to access the API documentation.
